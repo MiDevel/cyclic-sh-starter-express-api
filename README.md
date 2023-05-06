@@ -6,15 +6,17 @@ Yo!
 ```
 
 # Start it locally
-npm start
-nodemon start
+- npm start
+- nodemon start
+
+port: 3000 or PORT env variable
 
 
-## Custom modules
+# Custom modules
 - npm install -g nodemon
 
 
-### Deploy it in 7 seconds: 
+# Deploy it to Cyclic.sh:
 
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
 
